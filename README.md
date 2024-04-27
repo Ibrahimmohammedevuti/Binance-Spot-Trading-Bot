@@ -18,3 +18,9 @@ FEATURES:
 -  portfolio rebalancing
 -  diversification
 - continuously scan all USDT coins pairs with high  volume and velocities for strategy opportunities.
+
+- INSTALL THE FOLLOWING MODULES TO USE THE BOT:
+- ccxt
+- python-telegram-bot
+- telegram
+
